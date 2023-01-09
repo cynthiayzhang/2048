@@ -1,9 +1,8 @@
 # 2048
 2048 code for CIS 1200 final project
 
-===================
+
 =: Core Concepts :=
-===================
 
 - List the four core concepts, the features they implement, and why each feature
   is an appropriate use of the concept. Incorporate the feedback you got after
@@ -74,9 +73,9 @@
   I plan to use an AtomicBoolean type of flag to reflect the result of the checking of movable.
   The AtomicBoolean is thread-safe so that it prevents race conditions/deadlock/livelock.
 
-=========================
+
 =: Your Implementation :=
-=========================
+
 
 - Provide an overview of each of the classes in your code, and what their
   function is in the overall game.
